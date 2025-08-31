@@ -1,2 +1,2 @@
 # Koko
-The place where I do experimentd with GitHub.
+The place where I do experiments with GitHub.
